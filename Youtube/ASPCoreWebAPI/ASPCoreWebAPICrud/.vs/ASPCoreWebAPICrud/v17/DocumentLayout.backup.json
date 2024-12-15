@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Shyam\\Youtube\\ASPCoreWebAPI\\ASPCoreWebAPICrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Shyam\\Youtube\\ASPCoreWebAPI\\ASPCoreWebAPICrud\\ASPCoreWebAPICrud\\Controllers\\StudentAPIController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ASPCoreWebAPICrud\\Controllers\\StudentAPIController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Shyam\\Youtube\\ASPCoreWebAPI\\ASPCoreWebAPICrud\\ASPCoreWebAPICrud\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ASPCoreWebAPICrud\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Shyam\\Youtube\\ASPCoreWebAPI\\ASPCoreWebAPICrud\\ASPCoreWebAPICrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ASPCoreWebAPICrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Shyam\\Youtube\\ASPCoreWebAPI\\ASPCoreWebAPICrud\\ASPCoreWebAPICrud\\Models\\CsdbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ASPCoreWebAPICrud\\Models\\CsdbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Shyam\\Youtube\\ASPCoreWebAPI\\ASPCoreWebAPICrud\\ASPCoreWebAPICrud\\ASPCoreWebAPICrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ASPCoreWebAPICrud\\ASPCoreWebAPICrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Shyam\\Youtube\\ASPCoreWebAPI\\ASPCoreWebAPICrud\\ASPCoreWebAPICrud\\Program.cs",
+              "RelativeDocumentMoniker": "ASPCoreWebAPICrud\\Program.cs",
+              "ToolTip": "D:\\Shyam\\Youtube\\ASPCoreWebAPI\\ASPCoreWebAPICrud\\ASPCoreWebAPICrud\\Program.cs",
+              "RelativeToolTip": "ASPCoreWebAPICrud\\Program.cs",
+              "ViewState": "AgIAAAgAAABAkpmZmZkdwBUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:18:47.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Shyam\\Youtube\\ASPCoreWebAPI\\ASPCoreWebAPICrud\\ASPCoreWebAPICrud\\appsettings.json",
+              "RelativeDocumentMoniker": "ASPCoreWebAPICrud\\appsettings.json",
+              "ToolTip": "D:\\Shyam\\Youtube\\ASPCoreWebAPI\\ASPCoreWebAPICrud\\ASPCoreWebAPICrud\\appsettings.json",
+              "RelativeToolTip": "ASPCoreWebAPICrud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T12:11:58.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CsdbContext.cs",
+              "DocumentMoniker": "D:\\Shyam\\Youtube\\ASPCoreWebAPI\\ASPCoreWebAPICrud\\ASPCoreWebAPICrud\\Models\\CsdbContext.cs",
+              "RelativeDocumentMoniker": "ASPCoreWebAPICrud\\Models\\CsdbContext.cs",
+              "ToolTip": "D:\\Shyam\\Youtube\\ASPCoreWebAPI\\ASPCoreWebAPICrud\\ASPCoreWebAPICrud\\Models\\CsdbContext.cs",
+              "RelativeToolTip": "ASPCoreWebAPICrud\\Models\\CsdbContext.cs",
+              "ViewState": "AgIAAAoAAAAAKDMzMzMHwBMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:06:14.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "D:\\Shyam\\Youtube\\ASPCoreWebAPI\\ASPCoreWebAPICrud\\ASPCoreWebAPICrud\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "ASPCoreWebAPICrud\\Controllers\\StudentAPIController.cs",
+              "ToolTip": "D:\\Shyam\\Youtube\\ASPCoreWebAPI\\ASPCoreWebAPICrud\\ASPCoreWebAPICrud\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "ASPCoreWebAPICrud\\Controllers\\StudentAPIController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAtwBMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:15:57.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ASPCoreWebAPICrud.csproj",
+              "DocumentMoniker": "D:\\Shyam\\Youtube\\ASPCoreWebAPI\\ASPCoreWebAPICrud\\ASPCoreWebAPICrud\\ASPCoreWebAPICrud.csproj",
+              "RelativeDocumentMoniker": "ASPCoreWebAPICrud\\ASPCoreWebAPICrud.csproj",
+              "ToolTip": "D:\\Shyam\\Youtube\\ASPCoreWebAPI\\ASPCoreWebAPICrud\\ASPCoreWebAPICrud\\ASPCoreWebAPICrud.csproj",
+              "RelativeToolTip": "ASPCoreWebAPICrud\\ASPCoreWebAPICrud.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-07T12:04:27.47Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

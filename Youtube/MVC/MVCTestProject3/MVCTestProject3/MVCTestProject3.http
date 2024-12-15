@@ -1,0 +1,6 @@
+@MVCTestProject3_HostAddress = http://localhost:5280
+
+GET {{MVCTestProject3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,7 @@
+D:\shyam\CodePractice\dotnet\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\shyam\CodePractice\dotnet\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication.AssemblyInfoInputs.cache
+D:\shyam\CodePractice\dotnet\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication.AssemblyInfo.cs
+D:\shyam\CodePractice\dotnet\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication.csproj.CoreCompileInputs.cache
+D:\shyam\CodePractice\dotnet\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\shyam\CodePractice\dotnet\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication.RazorAssemblyInfo.cache
+D:\shyam\CodePractice\dotnet\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication.RazorAssemblyInfo.cs
